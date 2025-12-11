@@ -22,3 +22,18 @@
 ## Thermal Analysis ##
 <img width="1599" height="579" alt="image" src="https://github.com/user-attachments/assets/1f395c52-34f1-40ca-a937-d68bee378831" />
 
+# PACKAGE DESIGN AND MODELING
+
+## Building a Semiconductor Package From Scratch
+## Die
+<img width="1593" height="550" alt="image" src="https://github.com/user-attachments/assets/70d1e820-c7fc-467d-aa21-b2ef0271e338" />
+<img width="674" height="425" alt="image" src="https://github.com/user-attachments/assets/afe227f5-b4ca-4ef4-8c2d-576cf664ec1b" />
+
+## Die Attach
+<img width="727" height="422" alt="image" src="https://github.com/user-attachments/assets/c1e7370f-9673-40a1-9976-192a976af159" />
+
+## Substrate
+<img width="1597" height="565" alt="image" src="https://github.com/user-attachments/assets/cc57b012-9000-4e22-8838-17479e2c48d3" />
+
+## Mold Compound
+<img width="1598" height="585" alt="image" src="https://github.com/user-attachments/assets/09176859-dc53-40a5-951a-7454656e8f31" />
