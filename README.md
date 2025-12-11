@@ -1,3 +1,4 @@
+# Packaging Workshop #
 # Semiconductor Packaging: Fundamentals and Testing Workshop
 # Thermal Simulation of Semiconductor Packages with ANSYS
 ## Setting Flipchip BGA Package ##
