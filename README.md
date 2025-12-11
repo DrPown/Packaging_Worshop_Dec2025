@@ -37,3 +37,12 @@
 
 ## Mold Compound
 <img width="1598" height="585" alt="image" src="https://github.com/user-attachments/assets/09176859-dc53-40a5-951a-7454656e8f31" />
+
+## Substrate Bond pads
+<img width="1585" height="576" alt="image" src="https://github.com/user-attachments/assets/487474a4-5e78-40e7-92f9-d63082204c17" />
+
+## Die Bond Pads
+<img width="1595" height="589" alt="image" src="https://github.com/user-attachments/assets/1bf74606-592c-4d6e-9369-b5a92a1231a7" />
+
+## Bond Wires
+<img width="1599" height="587" alt="image" src="https://github.com/user-attachments/assets/31cb9256-6e38-4866-8734-566d06a8a920" />
