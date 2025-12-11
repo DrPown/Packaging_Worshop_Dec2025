@@ -3,7 +3,7 @@
 ## Setting Flipchip BGA Package ##
 <img width="1572" height="580" alt="image" src="https://github.com/user-attachments/assets/897ca6dd-d489-4842-b94a-1722c52fa441" />
 
-##Die##
+## Die ##
 <img width="1584" height="588" alt="image" src="https://github.com/user-attachments/assets/930b99a6-bc2e-4de3-91ff-337dc3da3952" />
 
 ## Substrate ##
